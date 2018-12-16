@@ -19,18 +19,17 @@ liri.js can take in one of the following commands: `concert-this`; `spotify-this
 If no song is provided then its will default to "The Sign" by Ace of Base.
 
 3. `node liri.js movie-this '<movie name here>'`. This will output the following information to your terminal:
-       * Title of the movie.
-       * Year the movie came out.
-       * IMDB Rating of the movie.
-       * Rotten Tomatoes Rating of the movie.
-       * Country where the movie was produced.
-       * Language of the movie.
-       * Plot of the movie.
-       * Actors in the movie.
+      * Title of the movie.
+      * Year the movie came out.
+      * IMDB Rating of the movie.
+      * Rotten Tomatoes Rating of the movie.
+      * Country where the movie was produced.
+      * Language of the movie.
+      * Plot of the movie.
+      * Actors in the movie.
 If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
-4. `node liri.js do-what-it-says`. This will make LIRI to take the text inside of random.txt and then use it to call one of LIRI's commands depending on the text. The text suppposed to be in the same format as we call liri's functions for song, movie or concert.
-
+4. `node liri.js do-what-it-says`. This will make LIRI to take the text inside of `random.txt` and then use it to call one of LIRI's commands depending on the text. The text is suppposed to be in the same format as one of liri's functions for song, movie or concert.
 
 In addition to logging the data to terminal/bash window, we output the data to a .txt file called `log.txt`, appending each command we run to the that file. 
 
@@ -40,7 +39,7 @@ We also added error handling letting user know when input returned no result and
 
 We made a `.gitignore` file and included these file names in there: node_modules, .DS_Store, .env. We use `keys.js` file to load spotify id and secret from local machine. We kept spotify id and secret in local machine in `.env` file. This file will be used by the `dotenv` package to set environment variables to the global `process.env` object in node. You'll need to have your own spotify id and secret stored in your own `.env` file for this app to work on your machine. 
 
-We made a `random.txt` file. Inside of it we keep search prompt and input. We'll use this file to run command `do-what-it-says`.
+We made a `random.txt` file. Inside of it we keep a search prompt and input. We'll use this file to run command `do-what-it-says`.
 
 Our main code lives in `liri.js` file.
 
