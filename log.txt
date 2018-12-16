@@ -1,182 +1,17 @@
-{"ResultNumber":1,"Venue":"Wells Fargo Center","Location":"Philadelphia, PA United States","Date":"12/17/2018"}
+{"ResultNumber":1,"Artist":"Queen","Song":"The Show Must Go On - Remastered 2011","Link":"https://open.spotify.com/track/3hU637WcAGM5ubSqeaTme5","Album":"Innuendo (Deluxe Remastered Version)"}
 -----------------
-{"ResultNumber":2,"Venue":"Mohegan Sun Arena","Location":"Uncasville, CT United States","Date":"12/21/2018"}
+{"ResultNumber":2,"Artist":"Queen","Song":"The Show Must Go On - 2011 Remaster","Link":"https://open.spotify.com/track/0LCWyLFPXIeg1CIC1NS712","Album":"Bohemian Rhapsody (The Original Soundtrack)"}
 -----------------
-{"ResultNumber":4,"Venue":"Capital One Arena","Location":"Washington, DC United States","Date":"01/04/2019"}
+{"ResultNumber":3,"Artist":"Pink Floyd","Song":"The Show Must Go On","Link":"https://open.spotify.com/track/077OhUjy58qkjscrXjW696","Album":"The Wall"}
 -----------------
-{"ResultNumber":3,"Venue":"Mohegan Sun Arena","Location":"Uncasville, CT United States","Date":"12/22/2018"}
+{"ResultNumber":4,"Artist":"Queen","Song":"The Show Must Go On","Link":"https://open.spotify.com/track/3m86qx7aIeqFcYcQ1UXUvP","Album":"Innuendo"}
 -----------------
-{"ResultNumber":5,"Venue":"PNC Arena","Location":"Raleigh, NC United States","Date":"01/06/2019"}
+{"ResultNumber":5,"Artist":"Famous Last Words","Song":"The Show Must Go on Prt. 1","Link":"https://open.spotify.com/track/7j4wJdav0vVW1mtiPlAhTj","Album":"Two-Faced Charade"}
 -----------------
-{"ResultNumber":1,"Venue":"United USA Tour 2019","Location":"Austin, TX United States","Date":"04/25/2019"}
------------------
-{"ResultNumber":5,"Venue":"United USA Tour 2019","Location":"Dallas, TX United States","Date":"04/30/2019"}
------------------
-{"ResultNumber":2,"Venue":"United USA Tour 2019","Location":"Lubbock, TX United States","Date":"04/26/2019"}
------------------
-{"ResultNumber":3,"Venue":"United USA Tour 2019","Location":"Houston, TX United States","Date":"04/27/2019"}
------------------
-{"ResultNumber":4,"Venue":"The Pavilion at Toyota Music Factory","Location":"Irving, TX United States","Date":"04/29/2019"}
------------------
-{"ResultNumber":1,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Austin, TX United States","Date":"04/25/2019"}
------------------
-{"ResultNumber":2,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Lubbock, TX United States","Date":"04/26/2019"}
------------------
-{"ResultNumber":3,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Houston, TX United States","Date":"04/27/2019"}
------------------
-{"ResultNumber":4,"Artist":"Hillsong United","Venue":"The Pavilion at Toyota Music Factory","Location":"Irving, TX United States","Date":"04/29/2019"}
------------------
-{"ResultNumber":5,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Dallas, TX United States","Date":"04/30/2019"}
------------------
-{"ResultNumber":1,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Austin, TX United States","Date":"04/25/2019"}
------------------
-{"ResultNumber":2,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Lubbock, TX United States","Date":"04/26/2019"}
------------------
-{"ResultNumber":4,"Artist":"Hillsong United","Venue":"The Pavilion at Toyota Music Factory","Location":"Irving, TX United States","Date":"04/29/2019"}
------------------
-{"ResultNumber":3,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Houston, TX United States","Date":"04/27/2019"}
------------------
-{"ResultNumber":5,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Dallas, TX United States","Date":"04/30/2019"}
------------------
-{"ResultNumber":1,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Austin, TX United States","Date":"04/25/2019"}
------------------
-{"ResultNumber":2,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Lubbock, TX United States","Date":"04/26/2019"}
------------------
-{"ResultNumber":3,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Houston, TX United States","Date":"04/27/2019"}
------------------
-{"ResultNumber":4,"Artist":"Hillsong United","Venue":"The Pavilion at Toyota Music Factory","Location":"Irving, TX United States","Date":"04/29/2019"}
------------------
-{"ResultNumber":5,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Dallas, TX United States","Date":"04/30/2019"}
------------------
-{"ResultNumber":1,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Austin, TX United States","Date":"04/25/2019"}
------------------
-{"ResultNumber":2,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Lubbock, TX United States","Date":"04/26/2019"}
------------------
-{"ResultNumber":3,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Houston, TX United States","Date":"04/27/2019"}
------------------
-{"ResultNumber":5,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Dallas, TX United States","Date":"04/30/2019"}
------------------
-{"ResultNumber":4,"Artist":"Hillsong United","Venue":"The Pavilion at Toyota Music Factory","Location":"Irving, TX United States","Date":"04/29/2019"}
------------------
-{"ResultNumber":1,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Austin, TX United States","Date":"04/25/2019"}
------------------
-{"ResultNumber":2,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Lubbock, TX United States","Date":"04/26/2019"}
------------------
-{"ResultNumber":4,"Artist":"Hillsong United","Venue":"The Pavilion at Toyota Music Factory","Location":"Irving, TX United States","Date":"04/29/2019"}
------------------
-{"ResultNumber":3,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Houston, TX United States","Date":"04/27/2019"}
------------------
-{"ResultNumber":5,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Dallas, TX United States","Date":"04/30/2019"}
------------------
-{"ResultNumber":1,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Austin, TX United States","Date":"04/25/2019"}
------------------
-{"ResultNumber":2,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Lubbock, TX United States","Date":"04/26/2019"}
------------------
-{"ResultNumber":3,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Houston, TX United States","Date":"04/27/2019"}
------------------
-{"ResultNumber":5,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Dallas, TX United States","Date":"04/30/2019"}
------------------
-{"ResultNumber":4,"Artist":"Hillsong United","Venue":"The Pavilion at Toyota Music Factory","Location":"Irving, TX United States","Date":"04/29/2019"}
------------------
-{"ResultNumber":1,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Austin, TX United States","Date":"04/25/2019"}
------------------
-{"ResultNumber":2,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Lubbock, TX United States","Date":"04/26/2019"}
------------------
-{"ResultNumber":4,"Artist":"Hillsong United","Venue":"The Pavilion at Toyota Music Factory","Location":"Irving, TX United States","Date":"04/29/2019"}
------------------
-{"ResultNumber":3,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Houston, TX United States","Date":"04/27/2019"}
------------------
-{"ResultNumber":5,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Dallas, TX United States","Date":"04/30/2019"}
------------------
-{"ResultNumber":1,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Austin, TX United States","Date":"04/25/2019"}
------------------
-{"ResultNumber":2,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Lubbock, TX United States","Date":"04/26/2019"}
------------------
-{"ResultNumber":3,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Houston, TX United States","Date":"04/27/2019"}
------------------
-{"ResultNumber":4,"Artist":"Hillsong United","Venue":"The Pavilion at Toyota Music Factory","Location":"Irving, TX United States","Date":"04/29/2019"}
------------------
-{"ResultNumber":5,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Dallas, TX United States","Date":"04/30/2019"}
------------------
-{"ResultNumber":1,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Austin, TX United States","Date":"04/25/2019"}
------------------
-{"ResultNumber":2,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Lubbock, TX United States","Date":"04/26/2019"}
------------------
-{"ResultNumber":3,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Houston, TX United States","Date":"04/27/2019"}
------------------
-{"ResultNumber":4,"Artist":"Hillsong United","Venue":"The Pavilion at Toyota Music Factory","Location":"Irving, TX United States","Date":"04/29/2019"}
------------------
-{"ResultNumber":5,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Dallas, TX United States","Date":"04/30/2019"}
------------------
-{"ResultNumber":1,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Austin, TX United States","Date":"04/25/2019"}
------------------
-{"ResultNumber":2,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Lubbock, TX United States","Date":"04/26/2019"}
------------------
-{"ResultNumber":3,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Houston, TX United States","Date":"04/27/2019"}
------------------
-{"ResultNumber":4,"Artist":"Hillsong United","Venue":"The Pavilion at Toyota Music Factory","Location":"Irving, TX United States","Date":"04/29/2019"}
------------------
-{"ResultNumber":5,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Dallas, TX United States","Date":"04/30/2019"}
------------------
-{"ResultNumber":1,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Austin, TX United States","Date":"04/25/2019"}
------------------
-{"ResultNumber":2,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Lubbock, TX United States","Date":"04/26/2019"}
------------------
-{"ResultNumber":3,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Houston, TX United States","Date":"04/27/2019"}
------------------
-{"ResultNumber":4,"Artist":"Hillsong United","Venue":"The Pavilion at Toyota Music Factory","Location":"Irving, TX United States","Date":"04/29/2019"}
------------------
-{"ResultNumber":5,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Dallas, TX United States","Date":"04/30/2019"}
------------------
-{"ResultNumber":1,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Austin, TX United States","Date":"04/25/2019"}
------------------
-{"ResultNumber":2,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Lubbock, TX United States","Date":"04/26/2019"}
------------------
-{"ResultNumber":3,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Houston, TX United States","Date":"04/27/2019"}
------------------
-{"ResultNumber":4,"Artist":"Hillsong United","Venue":"The Pavilion at Toyota Music Factory","Location":"Irving, TX United States","Date":"04/29/2019"}
------------------
-{"ResultNumber":5,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Dallas, TX United States","Date":"04/30/2019"}
------------------
-{"ResultNumber":1,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Austin, TX United States","Date":"04/25/2019"}
------------------
-{"ResultNumber":2,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Lubbock, TX United States","Date":"04/26/2019"}
------------------
-{"ResultNumber":3,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Houston, TX United States","Date":"04/27/2019"}
------------------
-{"ResultNumber":5,"Artist":"Hillsong United","Venue":"United USA Tour 2019","Location":"Dallas, TX United States","Date":"04/30/2019"}
------------------
-{"ResultNumber":4,"Artist":"Hillsong United","Venue":"The Pavilion at Toyota Music Factory","Location":"Irving, TX United States","Date":"04/29/2019"}
------------------
-{"ResultNumber":1,"Artist":"The 1975","Venue":"SSE Arena","Location":"Belfast,  United Kingdom","Date":"01/09/2019"}
------------------
-{"ResultNumber":2,"Artist":"The 1975","Venue":"3Arena","Location":"Dublin,  Ireland","Date":"01/10/2019"}
------------------
-{"ResultNumber":3,"Artist":"The 1975","Venue":"The SSE Hydro","Location":"Glasgow City,  United Kingdom","Date":"01/12/2019"}
------------------
-{"ResultNumber":4,"Artist":"The 1975","Venue":"Motorpoint Arena Cardiff","Location":"Cardiff,  United Kingdom","Date":"01/14/2019"}
------------------
-{"ResultNumber":5,"Artist":"The 1975","Venue":"The Brighton Centre","Location":"The City Of Brighton And Hove,  United Kingdom","Date":"01/16/2019"}
------------------
-{"ResultNumber":1,"Artist":"The 1975","Venue":"SSE Arena","Location":"Belfast,  United Kingdom","Date":"01/09/2019"}
------------------
-{"ResultNumber":2,"Artist":"The 1975","Venue":"3Arena","Location":"Dublin,  Ireland","Date":"01/10/2019"}
------------------
-{"ResultNumber":4,"Artist":"The 1975","Venue":"Motorpoint Arena Cardiff","Location":"Cardiff,  United Kingdom","Date":"01/14/2019"}
------------------
-{"ResultNumber":3,"Artist":"The 1975","Venue":"The SSE Hydro","Location":"Glasgow City,  United Kingdom","Date":"01/12/2019"}
------------------
-{"ResultNumber":5,"Artist":"The 1975","Venue":"The Brighton Centre","Location":"The City Of Brighton And Hove,  United Kingdom","Date":"01/16/2019"}
------------------
-{"ResultNumber":1,"Artist":"The 1975","Venue":"SSE Arena","Location":"Belfast,  United Kingdom","Date":"01/09/2019"}
------------------
-{"ResultNumber":2,"Artist":"The 1975","Venue":"3Arena","Location":"Dublin,  Ireland","Date":"01/10/2019"}
------------------
-{"ResultNumber":4,"Artist":"The 1975","Venue":"Motorpoint Arena Cardiff","Location":"Cardiff,  United Kingdom","Date":"01/14/2019"}
------------------
-{"ResultNumber":3,"Artist":"The 1975","Venue":"The SSE Hydro","Location":"Glasgow City,  United Kingdom","Date":"01/12/2019"}
------------------
-{"ResultNumber":5,"Artist":"The 1975","Venue":"The Brighton Centre","Location":"The City Of Brighton And Hove,  United Kingdom","Date":"01/16/2019"}
+Artist(s): Ace of Base
+Song: The Sign
+Link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album: The Sign (US Album) [Remastered]
 -----------------
 Title: Titanic
 Year: 1997
@@ -187,43 +22,22 @@ Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist 
 Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
 Rating: RT Rating: 89%
 -----------------
-{"ResultNumber":1,"Artist":"Bing Crosby","Song":"Winter Wonderland - Remastered 2006","Link":"https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0","Album":"Bing Crosby - Christmas Classics"}
+Title: Mr. Nobody
+Year: 2009
+IMBD Rating: 7.9
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rating: RT Rating: 67%
 -----------------
-{"ResultNumber":2,"Artist":"Tony Bennett","Song":"Winter Wonderland","Link":"https://open.spotify.com/track/4ricyQVd20UQde1jpXCSuJ","Album":"Snowfall - The Tony Bennett Christmas Album"}
+{"ResultNumber":1,"Artist":"Justin Timberlake","Venue":"Wells Fargo Center","Location":"Philadelphia, PA United States","Date":"12/17/2018"}
 -----------------
-{"ResultNumber":3,"Artist":"Ariana Grande","Song":"Winter Things","Link":"https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow","Album":"Christmas & Chill"}
+{"ResultNumber":2,"Artist":"Justin Timberlake","Venue":"Mohegan Sun Arena","Location":"Uncasville, CT United States","Date":"12/21/2018"}
 -----------------
-{"ResultNumber":4,"Artist":"Dean Martin","Song":"Let It Snow! Let It Snow! Let It Snow!","Link":"https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg","Album":"A Winter Romance"}
+{"ResultNumber":3,"Artist":"Justin Timberlake","Venue":"Mohegan Sun Arena","Location":"Uncasville, CT United States","Date":"12/22/2018"}
 -----------------
-{"ResultNumber":5,"Artist":"Pentatonix","Song":"White Winter Hymnal","Link":"https://open.spotify.com/track/0qEFmBL2k8pb2OWgW490X8","Album":"That's Christmas To Me (Deluxe Edition)"}
+{"ResultNumber":4,"Artist":"Justin Timberlake","Venue":"Capital One Arena","Location":"Washington, DC United States","Date":"01/04/2019"}
 -----------------
-{"ResultNumber":2,"Artist":"Tony Bennett","Song":"Winter Wonderland","Link":"https://open.spotify.com/track/4ricyQVd20UQde1jpXCSuJ","Album":"Snowfall - The Tony Bennett Christmas Album"}
------------------
-{"ResultNumber":3,"Artist":"Ariana Grande","Song":"Winter Things","Link":"https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow","Album":"Christmas & Chill"}
------------------
-{"ResultNumber":1,"Artist":"Bing Crosby","Song":"Winter Wonderland - Remastered 2006","Link":"https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0","Album":"Bing Crosby - Christmas Classics"}
------------------
-{"ResultNumber":4,"Artist":"Dean Martin","Song":"Let It Snow! Let It Snow! Let It Snow!","Link":"https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg","Album":"A Winter Romance"}
------------------
-{"ResultNumber":5,"Artist":"Pentatonix","Song":"White Winter Hymnal","Link":"https://open.spotify.com/track/0qEFmBL2k8pb2OWgW490X8","Album":"That's Christmas To Me (Deluxe Edition)"}
------------------
-{"ResultNumber":1,"Artist":"Bing Crosby","Song":"Winter Wonderland - Remastered 2006","Link":"https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0","Album":"Bing Crosby - Christmas Classics"}
------------------
-{"ResultNumber":3,"Artist":"Ariana Grande","Song":"Winter Things","Link":"https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow","Album":"Christmas & Chill"}
------------------
-{"ResultNumber":4,"Artist":"Dean Martin","Song":"Let It Snow! Let It Snow! Let It Snow!","Link":"https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg","Album":"A Winter Romance"}
------------------
-{"ResultNumber":5,"Artist":"Pentatonix","Song":"White Winter Hymnal","Link":"https://open.spotify.com/track/0qEFmBL2k8pb2OWgW490X8","Album":"That's Christmas To Me (Deluxe Edition)"}
------------------
-{"ResultNumber":2,"Artist":"Tony Bennett","Song":"Winter Wonderland","Link":"https://open.spotify.com/track/4ricyQVd20UQde1jpXCSuJ","Album":"Snowfall - The Tony Bennett Christmas Album"}
------------------
-{"ResultNumber":1,"Artist":"Bing Crosby","Song":"Winter Wonderland - Remastered 2006","Link":"https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0","Album":"Bing Crosby - Christmas Classics"}
------------------
-{"ResultNumber":2,"Artist":"Tony Bennett","Song":"Winter Wonderland","Link":"https://open.spotify.com/track/4ricyQVd20UQde1jpXCSuJ","Album":"Snowfall - The Tony Bennett Christmas Album"}
------------------
-{"ResultNumber":3,"Artist":"Ariana Grande","Song":"Winter Things","Link":"https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow","Album":"Christmas & Chill"}
------------------
-{"ResultNumber":4,"Artist":"Dean Martin","Song":"Let It Snow! Let It Snow! Let It Snow!","Link":"https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg","Album":"A Winter Romance"}
------------------
-{"ResultNumber":5,"Artist":"Pentatonix","Song":"White Winter Hymnal","Link":"https://open.spotify.com/track/0qEFmBL2k8pb2OWgW490X8","Album":"That's Christmas To Me (Deluxe Edition)"}
+{"ResultNumber":5,"Artist":"Justin Timberlake","Venue":"PNC Arena","Location":"Raleigh, NC United States","Date":"01/06/2019"}
 -----------------

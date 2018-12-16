@@ -40,33 +40,30 @@ function spotify(input) {
             if (err) {
                 return console.log('Error occurred: ' + err);
             }
-            if (JSON.stringify(data).length === 170) { console.log("We didn't found any result. Please try something else.") }
-            else {
-                for (var key in data) {
-                    var track = data[key].items;
-                    var showData = [];
-                    for (var i = 0; i < track.length; i++) {
-                        var showDataObj = {
-                            ResultNumber: i + 1,
-                            Artist: track[i].album.artists[0].name,
-                            Song: track[i].name,
-                            Link: track[i].external_urls.spotify,
-                            Album: track[i].album.name
-                        }
-                        showData.push(showDataObj);
-                        //console.log(showData[i]);
-                        fs.appendFile('log.txt', JSON.stringify(showData[i]) + "\r\n-----------------\r\n", function (error) {
-                            if (error) { throw error }
-                        });
-                        console.log("\n-----------------\n")
-                        console.log(JSON.stringify(showData[i].ResultNumber))
-                        console.log("Artist(s): " + JSON.stringify(showData[i].Artist))
-                        console.log("Song: " + JSON.stringify(showData[i].Song))
-                        console.log("Link: " + JSON.stringify(showData[i].Link))
-                        console.log("Album: " + JSON.stringify(showData[i].Album))
-                    };
+            for (var key in data) {
+                var track = data[key].items;
+                var showData = [];
+                for (var i = 0; i < track.length; i++) {
+                    var showDataObj = {
+                        ResultNumber: i + 1,
+                        Artist: track[i].album.artists[0].name,
+                        Song: track[i].name,
+                        Link: track[i].external_urls.spotify,
+                        Album: track[i].album.name
+                    }
+                    showData.push(showDataObj);
+                    //console.log(showData[i]);
+                    fs.appendFile('log.txt', JSON.stringify(showData[i]) + "\r\n-----------------\r\n", function (error) {
+                        if (error) { throw error }
+                    });
+                    console.log("\n-----------------\n")
+                    console.log(JSON.stringify(showData[i].ResultNumber))
+                    console.log("Artist(s): " + JSON.stringify(showData[i].Artist))
+                    console.log("Song: " + JSON.stringify(showData[i].Song))
+                    console.log("Link: " + JSON.stringify(showData[i].Link))
+                    console.log("Album: " + JSON.stringify(showData[i].Album))
                 };
-            }
+            };
         });
     }
 }
@@ -77,7 +74,6 @@ function concert(input) {
     request("https://rest.bandsintown.com/artists/" + input + "/events?app_id=codingbootcamp", function (error, response, body) {
         console.log('error:', error);
         if (JSON.parse(body.length) === 17) { console.log("We didn't found any result. Please try something else.") }
-
         else {
             var data = JSON.parse(body);
             var length;
@@ -117,7 +113,6 @@ function movie(input) {
     var request = require('request');
     request("http://www.omdbapi.com/?apikey=trilogy&t=" + input, function (error, response, body) {
         console.log('error:', error);
-        console.log("Hello " + JSON.parse(body.length));
         if (JSON.parse(body.length) === 47) { console.log("We didn't found any result. Please try something else.") }
 
         else {
