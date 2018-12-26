@@ -4,6 +4,9 @@
 LIRI is a command line (CLI) node app that takes in parameters and gives you back data. It will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
 ### How it works
+
+![Liri CLI1](videos/video1.gif)
+
 liri.js can take in one of the following commands: `concert-this`; `spotify-this-song`; `movie-this`; `do-what-it-says`. 
 
 1. `node liri.js concert-this <artist/band name here>`. This will search the Bands in Town Artist Events API for an artist and render the following information about each event to the terminal:
@@ -32,6 +35,8 @@ If the user doesn't type a movie in, the program will output data for the movie 
 4. `node liri.js do-what-it-says`. This will make LIRI to take the text inside of `random.txt` and then use it to call one of LIRI's commands depending on the text. The text is suppposed to be in the same format as one of liri's functions for song, movie or concert.
 
 In addition to logging the data to terminal/bash window, we output the data to a .txt file called `log.txt`, appending each command we run to the that file. 
+
+![Liri CLI2](videos/video2.gif)
 
 We also added error handling letting user know when input returned no result and asking him to try again. 
 
